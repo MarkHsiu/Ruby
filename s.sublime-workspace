@@ -1,0 +1,562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"no_of_months"
+			],
+			[
+				"wek",
+				"weeks"
+			],
+			[
+				"we",
+				"weeks"
+			],
+			[
+				"i",
+				"inj	inject(init) { |mem, var| .. }"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"cus",
+				"cust_id"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"Fi",
+				"File	File.read(\"..\")"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"in",
+				"inspect"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"g",
+				"gsub"
+			],
+			[
+				"gs",
+				"gsub"
+			],
+			[
+				"f",
+				"forward"
+			],
+			[
+				"fe",
+				"feet"
+			],
+			[
+				"b",
+				"blank"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"inj",
+				"inject"
+			],
+			[
+				"vi",
+				"visiting"
+			],
+			[
+				"v",
+				"visit_all"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Hash.rb",
+			"settings":
+			{
+				"buffer_size": 435,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Time1.rb",
+			"settings":
+			{
+				"buffer_size": 515,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "String.rb",
+			"settings":
+			{
+				"buffer_size": 1349,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "method.rb",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "HereDoc.rb",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "loop.rb",
+			"settings":
+			{
+				"buffer_size": 157,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "object.rb",
+			"settings":
+			{
+				"buffer_size": 635,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Ruby/Ruby"
+	],
+	"file_history":
+	[
+		"/E/Ruby/Ruby/s.sublime-project",
+		"/E/Ruby/test/Hash.rb",
+		"/E/Ruby/test/Array.rb",
+		"/E/Ruby/test/module/main1.rb",
+		"/E/Ruby/test/module/extend.rb",
+		"/E/Ruby/test/String.rb",
+		"/E/Ruby/test/variable.rb",
+		"/E/Ruby/test/lession-3/acts_as_csv_module.rb",
+		"/E/Ruby/test/HereDoc.rb",
+		"/E/Ruby/test/BEGIN.rb",
+		"/E/Ruby/test/object.rb",
+		"/E/Ruby/test/opinion.rb",
+		"/E/Ruby/test/loop.rb",
+		"/E/Ruby/test/method.rb",
+		"/E/Ruby/test/module/trig.rb",
+		"/E/Ruby/test/module/moral.rb",
+		"/E/Ruby/test/module/support.rb",
+		"/E/Ruby/test/module/main.rb",
+		"/E/Ruby/test/acts_as_csv_class.rb",
+		"/E/Ruby/test/acts_as_csv.rb",
+		"/E/Ruby/test/rubycsv.txt",
+		"/E/Ruby/test/class-open.rb",
+		"/E/Ruby/test/units.rb",
+		"/E/Ruby/test/roman.rb",
+		"/E/Ruby/test/lesson-2/tree_json.rb",
+		"/E/Ruby/test/lesson-2/tree_array.rb",
+		"/E/Ruby/test/lesson-2/treeJ.rb",
+		"/E/Ruby/test/tree.rb",
+		"/E/Ruby/test/hello.rb",
+		"/E/Ruby/test/to_file.rb",
+		"/E/Ruby/test/object_21752928.txt",
+		"/E/Ruby/test/object_21752748.txt",
+		"/E/Ruby/test/object_21320736.txt",
+		"/E/Ruby/test/object_22639860.txt",
+		"/D/SOFTWARE/SublimeText3/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/SOFTWARE/SublimeText3/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ch-z"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Hash.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Time1.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "String.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "method.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "HereDoc.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "loop.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "object.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 374.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "s.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
